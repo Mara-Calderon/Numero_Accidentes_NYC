@@ -20,4 +20,4 @@ El cliente tiene un conjunto específico de preguntas a las que le gustaría obt
 7. ¿Qué tipos de vehículos están más involucrados en accidentes por municipio?
 8. ¿Qué tipos de vehículos están más involucrados en las muertes?
 
-**Modo de ejecución**: Este repositorio se construyó de tal manera que no se requiera ningún paco adicional más que descargar el repositorio para poder ejecutarlo.
+**Modo de ejecución**: Para poder ejecutar este código y ver todas las gráficas que se incluyeron en el cuaderno se deberá descargar el repositorio abrir el notebook con colab, subir el data set a fuera de la carpeta sample_data bajo el nombre accidents-1 y proceder a ejecutar el código en su totalidad.
